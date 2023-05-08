@@ -11,7 +11,7 @@ I'm a Software Engineer who is currently open to work as a Backend Engineer, eit
 - 🌱 I’m currently learning JavaScript, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtooladejishina@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing mailtooladejishina@gmail.com.
 
 ---
 
