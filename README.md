@@ -8,11 +8,11 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
   
 **Here's a quick summary about me**:
 
-- 😊 Name: Oladeji Adeshina
+- 😊 Name: __Oladeji Adeshina__
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I just completed training at **Stutern** [School of Software Engineering](https://stutern.com) Cohort 1.3.
-- 🌱 I have expertise in JavaScript, Nodejs, ExpressJs and MongoDB.
-- 😊 I’m looking for help with entry-level opportunities or internships, and open source project.
+- 🌱 I have expertise in __JavaScript, Nodejs, ExpressJs, MongoDB, Git and Github__.
+- 😊 I’m looking for help with __entry-level opportunities or internships, and open source project__.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing **mailtooladejishina@gmail.com**.  
 <br> 📞 **+234-813-696-5662**
@@ -76,7 +76,6 @@ Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Gam
 |   | |  |   | RESTful APIs   |
 |     | |  |   | Microservices   | 
   
----
 <br>
 <br> 
 
@@ -93,5 +92,6 @@ Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Gam
     
   <br>
     
+ --- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshina3002&langs_count=8&layout=compact&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> |
 | ------------- | ------------- |
