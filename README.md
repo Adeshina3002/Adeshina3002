@@ -14,10 +14,10 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 🌱 I have expertise in JavaScript, Nodejs, ExpressJs and MongoDB.
 - 😊 I’m looking for help with entry-level opportunities or internships, and open source project.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can **[view my resume]**(https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing **mailtooladejishina@gmail.com**. <br> 📞 **+234-813-696-5662**
+- 📫 You can **[view my resume]**(https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing **mailtooladejishina@gmail.com**.   
+<br> 📞 **+234-813-696-5662**
 
-<br>  
-<br>   
+<br>     
      
 # 👨‍🎓 EDUCATION
 ### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
