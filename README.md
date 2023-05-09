@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-![Stutern Badge](https://img.shields.io/twitter/url?color=blue&label=STUTERN%20School%20of%20Software%20Engineering&logo=Stutern&logoColor=Blue&style=social&url=https%3A%2F%2Fstutern.com%2F) [![Linkedin Badge](https://img.shields.io/badge/-oladejiadeshina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeshina-oladeji-249a14167/)](https://www.linkedin.com/in/adeshina-oladeji-249a14167/) [![Twitter Badge](https://img.shields.io/badge/-oladejiadeshina-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dev_virtuoso)](https://twitter.com/dev_virtuoso)
+[![Linkedin Badge](https://img.shields.io/badge/-oladejiadeshina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeshina-oladeji-249a14167/)](https://www.linkedin.com/in/adeshina-oladeji-249a14167/) [![Twitter Badge](https://img.shields.io/badge/-oladejiadeshina-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dev_virtuoso)](https://twitter.com/dev_virtuoso)
 
 I'm a Software Engineer who is currently open to work as a Backend Engineer, either fulltime or remote. I have experience in designing and implementing RESTful APIs, working with database, and ensuring the performance and reliability of server side applications. I'm passionate about building innovative and impactful solutions that solve real-world problems, sharing knowledge, documentation, web engineering, and others. In the future, I look forward to create technical content, Cloud Engineering, build and contribute to useful [open-source projects](https://github.com/adeshina3002), speak at some meetups/conferences, build technical communities...
 
@@ -14,6 +14,40 @@ I'm a Software Engineer who is currently open to work as a Backend Engineer, eit
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing mailtooladejishina@gmail.com.
 
+---
+# 👨‍🎓 EDUCATION
+* LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
+[^1]:
+
+Bachelor of Technology, Pure and Applied Physics
+
+[^1]:
+
+* STUTERN 2022
+[^1]:
+Stutern Graduate Accelerator Programme Software Development.
+[^2]:
+
+# 🏢 Experiences
+
+## STUTERN
+SOFTWARE ENGINEER INTERN
+June 2022 - May 2023
+* Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS and MongoDB to create server side applications and securing the applications by authenticating and validating users.
+* Completed the development of multiple web applications with Html, CSS and JavaScript.
+* Volunteered as beginner software tutor for Stutern beginner short course(software development track feb and march 2023)
+
+##
+
+# 👩‍💻 Skills
+
+| Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies |
+| :---:        | :---: | :---: |    :---:      | :---: |
+| JavaScript   | Node.js | MongoDB |Deployment: Git,Render,Railway,Heroku,Vercel    | Agile software development    |
+| - HTML    |  Express.js | Mongoose | Testing and Debugging: Postman,Thunder Client    | Test-driven development (TDD)      |
+| - CSS    | Bootstrap |   | Others:  VScode, MongoDB Compass, MongoDB Atlas    | Continuous Integration/Continuous Deployment (CI/CD)      |
+|   | |  |   | RESTful APIs   |
+|     | |  |   | Microservices   |
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshina3002&langs_count=8&layout=compact&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> |
