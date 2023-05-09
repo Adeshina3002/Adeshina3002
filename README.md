@@ -14,7 +14,7 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 🌱 I have expertise in JavaScript, Nodejs, ExpressJs and MongoDB.
 - 😊 I’m looking for help with entry-level opportunities or internships, and open source project.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can **[view my resume]**(https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing **mailtooladejishina@gmail.com**.   
+- 📫 You can [view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing **mailtooladejishina@gmail.com**.  
 <br> 📞 **+234-813-696-5662**
 
 <br>     
@@ -49,6 +49,22 @@ __June 2022 - May 2023__
 
 
 <br>  
+
+# :computer: Project
+For all the projects listed here, I only worked on the server side of the application based on my skillsets and expertise. The projects are;
+- 🏫 Citrone : This is Learning Management System. It is a platform where learning activities can be access through the use of technology. Learners can enrol for various tech stacks like frontend, backend etc. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
+
+  Here is the link to the code base of the app **[CITRONE](https://github.com/Adeshina3002/Citrone-Re-design)**  
+  And the link to the hosted platform [Citrone](url)
+
+- 🎥 Vid app: It is an application service for renting out movies. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params.   
+Here is the link to the code base [VID APP](https://github.com/Adeshina3002/VID_APP)  
+And the Link to the hosted platform [VID APP](https://vidapp-project.up.railway.app/api)
+
+-  Quiz App: This project is a quiz application where users can answer questions and get scored based on the correct answers      
+Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Game-API)
+
+<br>
   
 # 👩‍💻 TECH-STACK
 
@@ -62,7 +78,20 @@ __June 2022 - May 2023__
   
 ---
 <br>
-<br>
+<br> 
+
+# 📄 CV / Resume 
+  - [Click here to view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link)
+  
+<br> 
+
+# :trophy: MEDAL 
+
+* Certificate of Appreciation (Volunteer Service)   
+  Lead Mentor   
+  March 2023
+    
+  <br>
     
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshina3002&langs_count=8&layout=compact&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> |
 | ------------- | ------------- |
