@@ -21,22 +21,24 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 ### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
 [^1]:
 
-  Bachelor of Technology (B.Tech) 
+  Bachelor of Technology (B.Tech)  
   Pure and Applied Physics
 
 [^1]:
 
 ### STUTERN 2022
 [^1]:
-  Stutern Graduate Accelerator Programme 
-  Software Development.
+  Stutern Graduate Accelerator Programme  
+  Software Development
 [^2]:
 
 # 🏢 Experiences
 
 ## STUTERN
-SOFTWARE ENGINEER INTERN
-June 2022 - May 2023
+SOFTWARE ENGINEER INTERN  
+  
+__June 2022 - May 2023__  
+  
 * Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS and MongoDB to create server side applications and securing the applications by authenticating and validating users.
 * Completed the development of multiple web applications with Html, CSS and JavaScript.
 * Volunteered as beginner software tutor for Stutern beginner short course(software development track feb and march 2023)
