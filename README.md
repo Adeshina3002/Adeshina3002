@@ -43,9 +43,9 @@ SOFTWARE ENGINEER INTERN
   
 __June 2022 - May 2023__  
   
-* Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS and MongoDB to create server side applications and securing the applications by authenticating and validating users.
+* Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS, and MongoDB to create server-side applications and secure the applications by authenticating and validating users.
 * Completed the development of multiple web applications with Html, CSS and JavaScript.
-* Volunteered as beginner software tutor for Stutern beginner short course(software development track feb and march 2023)
+* Volunteered as software tutor/mentor for the Stutern beginner short course program (March 2023)
 
 
 <br>  
