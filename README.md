@@ -36,7 +36,7 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
   
 <br>
   
-# 🌱 Experiences
+# 🌱 Experience
 
 ### STUTERN
 SOFTWARE ENGINEER INTERN  
