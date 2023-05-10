@@ -36,7 +36,7 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
   
 <br>
   
-# 🏢 Experiences
+# 🌱 Experiences
 
 ### STUTERN
 SOFTWARE ENGINEER INTERN  
@@ -59,7 +59,6 @@ For all the projects listed here, I only worked on the server side of the applic
 
 - 🎥 Vid app: It is an application service for renting out movies. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params.   
 Here is the link to the code base [VID APP](https://github.com/Adeshina3002/VID_APP)  
-And the Link to the hosted platform [VID APP](https://vidapp-project.up.railway.app/api)
 
 -  Quiz App: This project is a quiz application where users can answer questions and get scored based on the correct answers      
 Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Game-API)
