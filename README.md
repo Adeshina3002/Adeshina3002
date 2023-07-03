@@ -11,10 +11,10 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 😊 Name: __Oladeji Adeshina__
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I just completed training at **Stutern** [School of Software Engineering](https://stutern.com) Cohort 1.3.
-- 🌱 I have expertise in __JavaScript, Nodejs, ExpressJs, MongoDB, Git and Github__.
+- 🌱 I have expertise in __JavaScript, Nodejs, Express Js, Nest Js, MongoDB, Git, and Github__.
 - 😊 I’m looking for help with __entry-level opportunities or internships, and open source project__.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link) and contact me by emailing **mailtooladejishina@gmail.com**.  
+- 📫 You can [view my resume](https://drive.google.com/file/d/1rJommR4nXgu1APWHxrTvjmQ58ccSDfIu/view?usp=sharing) and contact me by emailing **mailtooladejishina@gmail.com**.  
 <br> 📞 **+234-813-696-5662**
 
 <br>     
@@ -44,7 +44,7 @@ SOFTWARE ENGINEER INTERN
 __June 2022 - May 2023__  
   
 * Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS, and MongoDB to create server-side applications and secure the applications by authenticating and validating users.
-* Completed the development of multiple web applications with Html, CSS and JavaScript.
+* Completed the development of multiple web applications with Html, CSS, and JavaScript.
 * Volunteered as software tutor/mentor for the Stutern beginner short course program (March 2023)
 
 
@@ -69,7 +69,7 @@ Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Gam
 
 | Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies |
 | :---:        | :---: | :---: |    :---:      | :---: |
-| JavaScript   | Node.js | MongoDB |Deployment: Git,Render,Railway,Heroku,Vercel    | Agile software development    |
+| JavaScript   | Node.js | MongoDB |Deployment: Git, Render, Railway, Heroku, Vercel    | Agile software development    |
 | - HTML    |  Express.js | Mongoose | Testing and Debugging: Postman,Thunder Client    | Test-driven development (TDD)      |
 | - CSS    | Bootstrap |   | Others:  VScode, MongoDB Compass, MongoDB Atlas    | Continuous Integration/Continuous Deployment (CI/CD)      |
 |   | |  |   | RESTful APIs   |
@@ -79,7 +79,7 @@ Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Gam
 <br> 
 
 # 📄 CV / Resume 
-  - [Click here to view my resume](https://drive.google.com/file/d/1H2TXsOb-tBarDXoxiyNvGOmuFI_aZ4sz/view?usp=share_link)
+  - [Click here to view my resume](https://drive.google.com/file/d/1rJommR4nXgu1APWHxrTvjmQ58ccSDfIu/view?usp=sharing)
   
 <br> 
 
