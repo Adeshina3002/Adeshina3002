@@ -39,7 +39,39 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
   
 # 🌱 Experience
 
-### STUTERN
+### PIXELGUM STUDIO
+
+BAKEND DEVELOPER
+
+__November 2023 - February 2024__ 
+
+* Designed and developed backend architecture for Pitchdeck design using Node.js, Express.js, Firebase, MongoDB, and AWS.
+* Implemented robust security measures for sensitive user data, ensuring compliance with industry regulations.
+* Collaborated in the development of microservices, fostering a modular and maintainable codebase for rapid growth.
+
+
+### MAILCHEKR
+
+BAKEND DEVELOPER
+
+__May 2023 -September 2023__
+
+* Developed robust backend architecture for real-time email validation service utilizing MongoDB.
+* Integrated JSON Web Tokens (JWT) for authentication and authorization, safeguarding sensitive user data.
+* Managed user accounts, roles, and permissions for secure access and data integrity.
+
+
+### SENDRAIL
+
+BAKEND DEVELOPER INTERN
+
+__May 2023 - July 2023__ 
+
+* Developed scalable backend system for Sendrail, a logistics application, using Node.js, Nest.js, Google Maps Route API, and MongoDB.
+* Integrated Google Maps Route API for real-time traffic updates, reducing delivery times by 15% and fuel costs by 10%.
+* Implemented best practices in Node.js and Nest.js for asynchronous programming and microservices architecture.
+  
+
 SOFTWARE ENGINEER INTERN  
   
 __June 2022 - May 2023__  
