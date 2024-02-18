@@ -16,24 +16,6 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rJommR4nXgu1APWHxrTvjmQ58ccSDfIu/view?usp=sharing) and contact me by emailing **mailtooladejishina@gmail.com**.  
 <br> 📞 **+234-813-696-5662**
-
-<br>     
-     
-# 👨‍🎓 EDUCATION
-
-### STUTERN 2022
-[^1]:
-  Stutern Graduate Accelerator Programme  
-  Software Development
-[^2]:  
-
-### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
-[^1]:
-
-  Bachelor of Technology (B.Tech)  
-  Pure and Applied Physics
-
-[^1]:
   
 <br>
   
@@ -82,6 +64,26 @@ __June 2022 - May 2023__
 
 
 <br>  
+
+<br>     
+     
+# 👨‍🎓 EDUCATION
+
+### STUTERN 2022
+[^1]:
+  Stutern Graduate Accelerator Programme  
+  Software Development
+[^2]:  
+
+### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
+[^1]:
+
+  Bachelor of Technology (B.Tech)  
+  Pure and Applied Physics
+
+[^1]:
+
+<br>
 
 # :computer: Project
 For all the projects listed here, I only worked on the server side of the application based on my skillsets and expertise. The projects are;
