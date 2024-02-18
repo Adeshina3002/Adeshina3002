@@ -20,6 +20,13 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 <br>     
      
 # 👨‍🎓 EDUCATION
+
+### STUTERN 2022
+[^1]:
+  Stutern Graduate Accelerator Programme  
+  Software Development
+[^2]:  
+
 ### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
 [^1]:
 
@@ -27,12 +34,6 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
   Pure and Applied Physics
 
 [^1]:
-
-### STUTERN 2022
-[^1]:
-  Stutern Graduate Accelerator Programme  
-  Software Development
-[^2]:  
   
 <br>
   
@@ -79,7 +80,7 @@ Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Gam
 <br> 
 
 # 📄 CV / Resume 
-  - [Click here to view my resume](https://drive.google.com/file/d/1rJommR4nXgu1APWHxrTvjmQ58ccSDfIu/view?usp=sharing)
+  - [Click here to view my resume](https://docs.google.com/document/d/1lw_CbdhCZuYoWUhCnp6eU9QkeqAZWEBV_GIazcfeK6g/edit?usp=sharing)
   
 <br> 
 
