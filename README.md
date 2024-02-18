@@ -72,7 +72,7 @@ __May 2023 - July 2023__
 * Implemented best practices in Node.js and Nest.js for asynchronous programming and microservices architecture.
   
 
-SOFTWARE ENGINEER INTERN  
+### STUTERN  
   
 __June 2022 - May 2023__  
   
@@ -85,6 +85,10 @@ __June 2022 - May 2023__
 
 # :computer: Project
 For all the projects listed here, I only worked on the server side of the application based on my skillsets and expertise. The projects are;
+- 🏫 Pitchdeck : Revolutionize your pitchdeck creation process with PitchDeck.Design – a curated treasure trove housing 500+ top-notch pitchdecks at your fingertips. Escape the chaos of scattered online searches and step into a unified platform where innovation meets organization, empowering you to effortlessly find inspiration for your next groundbreaking pitch.
+
+  And the link to the website [Pitchdeck design](https://pitchdeck.design/)
+  
 - 🏫 Citrone : Citrone is a Learning Management System where learning activities can be accessed through the use of technology. Learners can enroll for various tech stacks like frontend, backend, etc. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
 
   Here is the link to the code base of the app **[CITRONE](https://github.com/Adeshina3002/Citrone-Re-design)**  
