@@ -76,18 +76,18 @@ __June 2022 - May 2023__
 [^2]:
 
 ### STUTERN 2022
-[^3]:
+[^1]:
   Stutern Graduate Accelerator Programme  
   Software Development
-[^4]:  
+[^2]:  
 
 ### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
-[^5]:
+[^1]:
 
   Bachelor of Technology (B.Tech)  
   Pure and Applied Physics
 
-[^6]:
+[^2]:
 
 <br>
 
