@@ -71,15 +71,18 @@ __June 2022 - May 2023__
 
 ### HARVARD UNIVERSITY 2024 (IN VIEW)
 [^1]:
+
   CS50: Introduction To Computer Science
-  
   Software Development
+  
 [^2]:
 
 ### STUTERN 2022
 [^1]:
+
   Stutern Graduate Accelerator Programme  
   Software Development
+  
 [^2]:  
 
 ### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
