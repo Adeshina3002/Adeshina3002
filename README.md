@@ -12,8 +12,8 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I just completed training at **Stutern** [School of Software Engineering](https://stutern.com) Cohort 1.3.
 - 🌱 I have expertise in __JavaScript, Nodejs, Express Js, Nest Js, MongoDB, Git, and Github__.
-- 😊 I’m looking for help with __entry-level opportunities or internships, and open source project__.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 😊 I’m looking for help with __entry-level opportunities or junior level, and open source project__.
+- 💼 Job interests: Software Engineer, Backend Engineer (Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rJommR4nXgu1APWHxrTvjmQ58ccSDfIu/view?usp=sharing) and contact me by emailing **mailtooladejishina@gmail.com**.  
 <br> 📞 **+234-813-696-5662**
   
