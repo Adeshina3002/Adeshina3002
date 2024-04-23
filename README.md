@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-oladejiadeshina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeshina-oladeji-249a14167/)](https://www.linkedin.com/in/adeshina-oladeji-249a14167/) [![Twitter Badge](https://img.shields.io/badge/-oladejiadeshina-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dev_virtuoso)](https://twitter.com/dev_virtuoso)
+[![Linkedin Badge](https://img.shields.io/badge/-oladeji adeshina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeshina-oladeji-249a14167/)](https://www.linkedin.com/in/adeshina-oladeji-249a14167/) [![Twitter Badge](https://img.shields.io/badge/-oladeji adeshina-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dev_virtuoso)](https://twitter.com/dev_virtuoso)
 
 I'm a Software Engineer who is currently open to work as a Backend developer, either fulltime or remote. I have experience in designing and implementing RESTful APIs, working with database, and ensuring the performance and reliability of server side applications. I'm passionate about building innovative and impactful solutions that solve real-world problems, sharing knowledge, documentation, web engineering, and others. In the future, I look forward to create technical content, Cloud Engineering, build and contribute to useful open-source projects, speak at some meetups/conferences, build technical communities...
 
@@ -25,7 +25,7 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 
 BAKEND DEVELOPER
 
-__November 2023 - February 2024__ 
+__November 2023 - Present__ 
 
 * Designed and developed backend architecture for Pitchdeck design using Node.js, Express.js, Firebase, MongoDB, and AWS.
 * Implemented robust security measures for sensitive user data, ensuring compliance with industry regulations.
