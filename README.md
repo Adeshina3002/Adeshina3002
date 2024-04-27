@@ -14,7 +14,7 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 🌱 I have expertise in __JavaScript, Nodejs, Express Js, Nest Js, MongoDB, Git, and Github__.
 - 😊 I’m looking for help with __entry-level opportunities or junior level, and open source project__.
 - 💼 Job interests: Software Engineer, Backend Engineer (Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1rJommR4nXgu1APWHxrTvjmQ58ccSDfIu/view?usp=sharing) and contact me by emailing **mailtooladejishina@gmail.com**.  
+- 📫 You can [view my resume](https://drive.google.com/file/d/1cdFHqzP68GpchTIeQ1M8m9ISNNaoB5Dc/view?usp=sharing) and contact me by emailing **mailtooladejishina@gmail.com**.  
 <br> 📞 **+234-813-696-5662**
   
 <br>
@@ -127,7 +127,7 @@ Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Gam
 <br> 
 
 # 📄 CV / Resume 
-  - [Click here to view my resume](https://docs.google.com/document/d/1lw_CbdhCZuYoWUhCnp6eU9QkeqAZWEBV_GIazcfeK6g/edit?usp=sharing)
+  - [Click here to view my resume](https://drive.google.com/file/d/1cdFHqzP68GpchTIeQ1M8m9ISNNaoB5Dc/view?usp=sharing)
   
 <br> 
 
