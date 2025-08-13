@@ -23,7 +23,7 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 
 ### PIXELGUM STUDIO
 
-BAKEND DEVELOPER
+BACKEND DEVELOPER
 
 __November 2023 - Present__ 
 
