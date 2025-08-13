@@ -34,7 +34,7 @@ __November 2023 - Present__
 
 ### MAILCHEKR
 
-BAKEND DEVELOPER
+BACKEND DEVELOPER
 
 __May 2023 -September 2023__
 
@@ -45,7 +45,7 @@ __May 2023 -September 2023__
 
 ### SENDRAIL
 
-BAKEND DEVELOPER INTERN
+BACKEND DEVELOPER INTERN
 
 __May 2023 - July 2023__ 
 
