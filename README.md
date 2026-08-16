@@ -1,144 +1,96 @@
-# Hello there; welcome 👋🏾
+# Hi, I'm Oladeji Adeshina 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-oladejiadeshina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeshina-oladeji-249a14167/)](https://www.linkedin.com/in/adeshina-oladeji-249a14167/) [![Twitter Badge](https://img.shields.io/badge/-oladejiadeshina-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dev_virtuoso)](https://twitter.com/dev_virtuoso)
+**Backend Engineer & Machine Learning Systems Developer** — 6+ years building and operating production APIs, now applying that same rigor to ML systems taken from raw data to deployed inference.
 
-I'm a Software Engineer who is currently open to work as a Backend developer, either fulltime or remote. I have experience in designing and implementing RESTful APIs, working with database, and ensuring the performance and reliability of server side applications. I'm passionate about building innovative and impactful solutions that solve real-world problems, sharing knowledge, documentation, web engineering, and others. In the future, I look forward to create technical content, Cloud Engineering, build and contribute to useful open-source projects, speak at some meetups/conferences, build technical communities...
+Physics-trained, self-directed, and currently pursuing an **MSc in Data Science** at the **University of Milano-Bicocca**.
 
-<br> 
-  
-**Here's a quick summary about me**:
+[![LinkedIn](https://img.shields.io/badge/-Oladeji%20Adeshina-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adeshina-oladeji-249a14167/)
+[![Twitter](https://img.shields.io/badge/-dev__virtuoso-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_virtuoso)
+[![Email](https://img.shields.io/badge/-oladejishina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oladejishina@gmail.com)
 
-- 😊 Name: __Oladeji Adeshina__
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I just completed training at **Stutern** [School of Software Engineering](https://stutern.com) Cohort 1.3.
-- 🌱 I have expertise in __JavaScript, Nodejs, Express Js, Nest Js, MongoDB, Git, and Github__.
-- 😊 I’m looking for help with __entry-level opportunities or junior level, and open source project__.
-- 💼 Job interests: Software Engineer, Backend Engineer (Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1cdFHqzP68GpchTIeQ1M8m9ISNNaoB5Dc/view?usp=sharing) and contact me by emailing **mailtooladejishina@gmail.com**.  
-<br> 📞 **+234-813-696-5662**
-  
-<br>
-  
-# 🌱 Experience
+---
 
-### PIXELGUM STUDIO
+## About Me
 
-BACKEND DEVELOPER
+- 🔭 Currently a **Master's student in Data Science** at Università degli Studi di Milano-Bicocca.
+- 💻 **6+ years** building production APIs in Python (FastAPI) and TypeScript/Node.js (Express, NestJS) for fintech and logistics companies.
+- 📊 Building **applied machine-learning systems** end-to-end — credit risk modeling, physics-informed forecasting, full MLOps loops with MLflow.
+- 🧪 Physics-trained (BTech) — I bring a first-principles, data-driven approach to every system I build.
+- 🚀 Ship independent products solo: from architecture to payment flows to deployment.
+- 📫 Reach me at **oladejishina@gmail.com**
 
-__November 2023 - Present__ 
+---
 
-* Designed and developed backend architecture for Pitchdeck design using Node.js, Express.js, Firebase, MongoDB, and AWS.
-* Implemented robust security measures for sensitive user data, ensuring compliance with industry regulations.
-* Collaborated in the development of microservices, fostering a modular and maintainable codebase for rapid growth.
+## 🛠️ Tech Stack
 
+**Backend:** Python (FastAPI) · Node.js · Express.js · NestJS · TypeScript · REST/OpenAPI design · JWT/OAuth · WebSockets · background jobs · rate limiting · caching
 
-### MAILCHEKR
+**Machine Learning:** XGBoost · LightGBM · scikit-learn · PyTorch · deep learning · physics-informed neural networks · feature engineering · MLflow · model serving & monitoring
 
-BACKEND DEVELOPER
+**Data:** PostgreSQL (query tuning, indexing) · MongoDB · Redis · star-schema warehousing · pandas · ETL pipeline design
 
-__May 2023 -September 2023__
+**Infrastructure:** AWS (EC2, S3, RDS) · Docker · GitHub Actions CI/CD · Linux · Nginx
 
-* Developed robust backend architecture for real-time email validation service utilizing MongoDB.
-* Integrated JSON Web Tokens (JWT) for authentication and authorization, safeguarding sensitive user data.
-* Managed user accounts, roles, and permissions for secure access and data integrity.
+---
 
+## 🚀 Featured Projects
 
-### SENDRAIL
+### [Helios — Credit Risk Intelligence Platform](https://github.com/adeshina3002) · 2026–Present
+End-to-end default-prediction system on 307k loan applications (Home Credit dataset). Feature engineering across 7 relational tables, XGBoost/LightGBM models reaching **0.79 AUC**, served via FastAPI on AWS with PostgreSQL and Power BI risk dashboards. Full MLOps loop with versioned MLflow experiments, a reproducible training pipeline, and containerized inference at **200ms median latency**.
 
-BACKEND DEVELOPER INTERN
+### Solar Forecasting with Physics-Informed Neural Networks · Research project, 2025
+PINN + XGBoost ensemble for day-ahead solar generation forecasting. Lag-feature engineering lifted the skill score to **0.836** vs. a persistence baseline, with all experiments tracked in MLflow.
 
-__May 2023 - July 2023__ 
+### [Ledgr](https://github.com/adeshina3002) · 2026
+Local-first, privacy-first budgeting app (TypeScript, React, Dexie/IndexedDB), sold as a one-time purchase. Designed the sync-free architecture, offline persistence, and payment flow solo.
 
-* Developed scalable backend system for Sendrail, a logistics application, using Node.js, Nest.js, Google Maps Route API, and MongoDB.
-* Integrated Google Maps Route API for real-time traffic updates, reducing delivery times by 15% and fuel costs by 10%.
-* Implemented best practices in Node.js and Nest.js for asynchronous programming and microservices architecture.
-  
+### [Chiaro](https://github.com/adeshina3002) · 2026
+Chrome extension for in-browser bilingual PDF translation, built with PDF.js and the Chrome Translator API.
 
-### STUTERN  
-  
-__June 2022 - May 2023__  
-  
-* Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS, and MongoDB to create server-side applications and secure the applications by authenticating and validating users.
-* Completed the development of multiple web applications with Html, CSS, and JavaScript.
-* Volunteered as software tutor/mentor for the Stutern beginner short course program (March 2023)
+### [EventHive — Event Management API](https://github.com/adeshina3002) · 2024
+Production-grade MERN backend: JWT auth with role-based access, GridFS file storage, admin panel, rate limiting, and 100% Swagger-documented endpoints.
 
+*(→ Update project links to your actual repos)*
 
-<br>  
+---
 
-<br>     
-     
-# 👨‍🎓 EDUCATION
+## 💼 Experience
 
-### HARVARD UNIVERSITY 2024 (IN VIEW)
-[^1]:
+**Backend Engineer** — Sendrail (logistics platform, Nigeria) · *June 2024 – May 2025*
+- Owned core shipment-tracking and dispatch APIs (Node.js/Express, MongoDB) processing 500+ delivery events/day across 800 partner fleets.
+- Cut p95 latency on the order-lookup endpoint from ~800ms to ~150ms by redesigning indexes and replacing N+1 queries with aggregation pipelines.
+- Designed a webhook + retry architecture for third-party courier integrations, reducing failed status syncs by 70% and eliminating manual reconciliation.
+- Introduced request validation, structured logging, and Swagger documentation adopted as the team standard across 100 services.
 
-  CS50: Introduction to Computer Science
-  
-[^2]:
+**Backend / Data Engineer** — Halcredit (credit fintech, Nigeria) · *April 2022 – June 2024*
+- Built loan-application and repayment APIs in Node.js handling ₦30M+ in monthly disbursements, with idempotent payment endpoints and full audit logging.
+- Developed the data layer behind credit decisioning; automated ingestion and validation of applicant records, cutting manual review time per application from 5 min to 2 min.
+- Implemented rule-based risk scoring that reduced early-default rate in approved cohorts by 30% — groundwork that later informed the ML-based Helios platform.
 
-### STUTERN 2022
-[^1]:
+**Backend Engineer** — Pixelgum Studio (software agency) · *Nov 2019 – Jan 2021*
+- Shipped server products end-to-end (TypeScript, Node.js): scoping, API design, deployment, and post-launch maintenance under fixed deadlines.
+- Built reusable authentication and file-upload modules reused across client codebases, cutting new-project setup time by 50%.
 
-  Stutern Graduate Accelerator Programme  
-  Software Development
-  
-[^2]:  
+---
 
-### LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY, Nigeria 2019
-[^1]:
+## 🎓 Education
 
-  Bachelor of Technology (B.Tech)  
-  Pure and Applied Physics
+**MSc Data Science** — University of Milano-Bicocca, Italy *(2026 – 2028, expected)*
+**MSc Physics** — University of Calabria, Italy *(2024 – 2026, Unical Scholarship merit award)*
+**BTech, Pure & Applied Physics** — LAUTECH, Nigeria *(2013 – 2019, First Class equivalent, 4.21/5.0)*
+**Data Science Diploma** — Axia Africa
 
-[^2]:
+**Also:** MLH Hackathon Winner, 2018 · Languages: English (fluent), Italian (amateur)
 
-<br>
+---
 
-# :computer: Project
-For all the projects listed here, I only worked on the server side of the application based on my skillsets and expertise. The projects are;
-- 🏫 Pitchdeck : Revolutionize your pitchdeck creation process with PitchDeck.Design – a curated treasure trove housing 500+ top-notch pitchdecks at your fingertips. Escape the chaos of scattered online searches and step into a unified platform where innovation meets organization, empowering you to effortlessly find inspiration for your next groundbreaking pitch.
+## 📈 GitHub Stats
 
-  And the link to the website [Pitchdeck design](https://pitchdeck.design/)
-  
-- 🏫 Citrone : Citrone is a Learning Management System where learning activities can be accessed through the use of technology. Learners can enroll for various tech stacks like frontend, backend, etc. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Oladeji's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshina3002&langs_count=8&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
 
-  Here is the link to the code base of the app **[CITRONE](https://github.com/Adeshina3002/Citrone-Re-design)**  
-  And the link to the hosted platform [Citrone](url)
+---
 
-- 🎥 Vid app: It is an application service for renting out movies. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params.   
-Here is the link to the code base [VID APP](https://github.com/Adeshina3002/VID_APP)  
-
--  Quiz App: This project is a quiz application where users can answer questions and get scored based on the correct answers      
-Here is the link to the code base [QUIZ APP](https://github.com/Adeshina3002/Game-API)
-
-<br>
-  
-# 👩‍💻 TECH-STACK
-
-| Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies |
-| :---:        | :---: | :---: |    :---:      | :---: |
-| JavaScript   | Node.js | MongoDB |Deployment: Git, Render, Railway, Heroku, Vercel    | Agile software development    |
-| - HTML    |  Express.js | Mongoose | Testing and Debugging: Postman,Thunder Client    | Test-driven development (TDD)      |
-| - CSS    | Bootstrap |   | Others:  VScode, MongoDB Compass, MongoDB Atlas    | Continuous Integration/Continuous Deployment (CI/CD)      |
-|   | |  |   | RESTful APIs   |
-|     | |  |   | Microservices   | 
-  
-<br>
-<br> 
-
-# 📄 CV / Resume 
-  - [Click here to view my resume](https://drive.google.com/file/d/1cdFHqzP68GpchTIeQ1M8m9ISNNaoB5Dc/view?usp=sharing)
-  
-<br> 
-
-# :trophy: MEDAL 
-
-* Certificate of Appreciation (Volunteer Service)   
-  Lead Mentor   
-  March 2023
-    
-  <br>
-    
- --- 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshina3002&langs_count=8&layout=compact&hide_border=true" alt="Oladeji Adeshina's GitHub stats" /> |
-| ------------- | ------------- |
+<p align="center"><i>Building at the intersection of physics, data, and software.</i></p>
